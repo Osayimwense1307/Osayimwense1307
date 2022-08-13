@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osayimwense1307
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning alx
+- 🌱 I’m currently learning through alx platform
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me send a message on my phone number 09057808067
 
